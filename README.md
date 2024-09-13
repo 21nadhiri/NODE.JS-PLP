@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project
  application assignment
     PROJECT OVERVIEW
@@ -135,3 +136,6 @@ Lesson : Building a Complete Node.js Application
 This final lesson combined everything learned into a complete Node.js app. The app starts a web server, fetches data from an API, and displays it in a Bootstrap-styled layout. The app also handles errors and makes use of events, external modules, and async programming.
 
 
+=======
+# NODE.JS-PLP
+>>>>>>> f4d2f5120e419e473152d1bcff4587933cb5612e
