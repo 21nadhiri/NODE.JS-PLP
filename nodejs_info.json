@@ -1,53 +1,53 @@
  [
   {
-     "topic":"project Overview",
+     "Content":"PROJECT OVERVIEW",
     "description": "A simple Node.js application that fetches and displays API data in a Bootstrap-styled webpage."
   },
   
   {
 
-    "topic":"node.js",
+    "Content":"node.js",
     "description": "The JavaScript runtime environment used to build the web server and handle backend logic."
 },
 
 {
-    "topic":"npm",
+    "Content":"npm",
     "Description": "Node Package Manager, used to install dependencies like axios for API requests."
 },
 
 {
-    "topic":"Bootsrap 5",
+    "Content":"Bootsrap 5",
     "Description": "A popular CSS framework used for responsive and clean styling of the webpage."
 },
 
 {
-    "topic":"HTTP Module",
+    "Content":"HTTP Module",
     "Description": "Core Node.js module used to create the web server and listen to incoming HTTP requests."
 },
 
 {
-    "topic":"axios",
+    "Content":"axios",
     "Description": "A promise-based HTTP client used for fetching data from an external API (JSONPlaceholder)."
 },
 
 {
-    "topic":"project directory",
+    "Content":"project directory",
     "Description": "Contains static assets like Bootstrap CSS and JavaScript files (e.g., script.js)."
 },
 
 {
-    "topic":"Modularization",
+    "Content":"Modularization",
     "Description": "Code is split into modules for request handling (requestHandler.js) and event logic (events.js)."
 },
 
 {
-    "topic":"Error Handling",
+    "Content":"Error Handling",
     "Description": "Graceful error handling is implemented to ensure the app responds correctly when issues occur."
 },
 
 
 {
-    "topic":"Git Version Control",
+    "Content":"Git Version Control",
     "Description": "The project is managed using Git, with a full history of commits pushed to GitHub."
 }
  
